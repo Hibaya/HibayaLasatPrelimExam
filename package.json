@@ -1,0 +1,25 @@
+{
+  "name": "hibayalasat_prelimexam",
+  "version": "1.0.0",
+  "description": "Web Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hibaya/HibayaLasatPrelimExam.git"
+  },
+  "keywords": [
+    "Webshop"
+  ],
+  "author": "HibayaLasat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hibaya/HibayaLasatPrelimExam/issues"
+  },
+  "homepage": "https://github.com/Hibaya/HibayaLasatPrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
